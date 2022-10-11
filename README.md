@@ -1,4 +1,4 @@
-# GeneGenie.Gedcom
+# Gedcomio
 
 A .Net Standard library for loading, saving, working with and analysing family trees stored in the GEDCOM format.
 
